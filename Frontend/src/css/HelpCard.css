@@ -1,0 +1,19 @@
+.help-card {
+    width: 300px;
+    height: 150px;
+    background-color: #f4f6f8;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.help-card h3,
+.help-card p {
+    padding: 5px 0px;
+    font-size: 16px;
+}
+
+.help-card p {
+    text-align: start;
+    font-size: 14px;
+}
